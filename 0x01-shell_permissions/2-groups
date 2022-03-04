@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "grep 2-groups"
+echo "chgrp 2-groups"
